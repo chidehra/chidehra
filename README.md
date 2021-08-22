@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chidehra
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning css/bootstrap
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me @dehhra_ on Instgram
 
